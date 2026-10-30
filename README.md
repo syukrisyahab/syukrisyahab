@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Syukri Syahab 👋
 
-<!--
-**syukrisyahab/syukrisyahab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack Developer | Business Automation | PWA & Mobile Applications
 
-Here are some ideas to get you started:
+I build practical, scalable digital solutions that help businesses simplify workflows, automate processes, and make better decisions through data.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My background in supply chain and operations management enables me to combine real-world business experience with software development.
+
+### Tech Stack
+- **Backend:** PHP, Laravel, Python, REST APIs
+- **Frontend:** Next.js, React, Vue.js, Tailwind CSS
+- **Database:** MySQL
+- **Mobile:** Android Applications, Progressive Web Apps
+- **Specialties:** Workflow Automation, Business Dashboards, System Integration
+
+### Featured Projects
+- **TerangKas** — Family Finance Management PWA
+- **PaySol** — Daily Credit & Collection Management
+- **ReHabit** — Healthcare Exercise Monitoring Platform
+- **Nexchain** — Supply Chain Mobile Application
+- **TPM** — Maintenance Management System
+- **5R Audit** — Digital Audit & Corrective Action Platform
+
+### What I Can Build
+- Custom Business Web Applications
+- REST API & Database Systems
+- Progressive Web Applications
+- Operational Dashboards & Analytics
+- Workflow Automation & System Integration
+
+### Let's Connect
+- Website: https://www.sosmed-id.com
+- GitHub: https://github.com/syukrisyahab
+
+*Turning operational challenges into practical digital solutions.*
